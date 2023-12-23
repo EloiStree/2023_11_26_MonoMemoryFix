@@ -35,6 +35,11 @@ public class MonoMemoryUnityFix : MonoBehaviour
             memoryScript.RefreshScriptAssocated();
         }
     }
+    [ContextMenu("Remove All Memory Script")]
+    public void RemoveAllMemoryScript()
+    {
+        MemoryUnityFixUtility.RemoveAllMemoryScriptOfScene();
+    }
 
     [ContextMenu("Refresh")]
     public void RefreshScriptAssocated() {

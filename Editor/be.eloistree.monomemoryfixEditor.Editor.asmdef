@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.monomemoryfixEditor",          
+    "references": ["be.eloistree.monomemoryfix"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

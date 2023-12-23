@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.monomemoryfix",                              
+  "displayName": "Mono Memory Fix",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool is here to create memory of the script on a monobehaviour in aim to be able to fix a missing script or detected it when possible.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_11_26_MonoMemoryFix.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
