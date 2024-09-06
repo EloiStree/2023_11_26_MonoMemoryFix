@@ -1,10 +1,12 @@
 
 {                                                                   
-            "name": "be.eloistree.monomemoryfix",          
-    "references": [
+            "name": "be.elab.monomemoryfixEditor",          
+    "references": ["be.elab.monomemoryfix"
 ],                                                              
     "optionalUnityReferences": [],                                  
-    "includePlatforms": [],                                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
     "excludePlatforms": [],                                         
     "allowUnsafeCode": false,                                       
     "overrideReferences": false,                                    
